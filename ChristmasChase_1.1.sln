@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasChase_1.1", "ChristmasChase_1.1.csproj", "{CA28413C-8E97-58E4-F45D-A5AAA389DFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasChase_1.1.Editor", "ChristmasChase_1.1.Editor.csproj", "{66940E93-3CC6-39DA-C333-73CA207CBDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA28413C-8E97-58E4-F45D-A5AAA389DFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA28413C-8E97-58E4-F45D-A5AAA389DFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA28413C-8E97-58E4-F45D-A5AAA389DFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA28413C-8E97-58E4-F45D-A5AAA389DFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66940E93-3CC6-39DA-C333-73CA207CBDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66940E93-3CC6-39DA-C333-73CA207CBDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66940E93-3CC6-39DA-C333-73CA207CBDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66940E93-3CC6-39DA-C333-73CA207CBDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
